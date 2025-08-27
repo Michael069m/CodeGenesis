@@ -1,0 +1,17 @@
+learning_rate: 0.001
+batch_size: 32
+num_epochs: 50
+dataset:
+  train:
+    images_path: "data/train/images"
+    labels_path: "data/train/labels"
+  val:
+    images_path: "data/val/images"
+    labels_path: "data/val/labels"
+  test:
+    golden_test_set:
+      images_path: "data/test/golden_test_set/images"
+      labels_path: "data/test/golden_test_set/labels"
+    regular:
+      images_path: "data/test/regular/images"
+      labels_path: "data/test/regular/labels"

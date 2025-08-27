@@ -1,0 +1,9 @@
+# YOLO dataset configuration for CodeGenesis entity box detection
+# Absolute paths to avoid working-directory confusion
+train: /Users/michaeltitusmuthuraj/Desktop/CodeGenesis/ml-training-project/data/train/images
+val: /Users/michaeltitusmuthuraj/Desktop/CodeGenesis/ml-training-project/data/val/images
+
+# Number of classes and their names
+# Update the list if you have more classes
+nc: 1
+names: [entity_box]
