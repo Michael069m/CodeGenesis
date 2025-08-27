@@ -14,8 +14,8 @@ This project is designed for training YOLOv8 object detection models on custom d
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
-cd ml-training-project
+git clone https://github.com/Michael069m/CodeGenesis.git
+cd CodeGenesis
 ```
 
 ### 2. Set Up Python Environment
@@ -78,7 +78,7 @@ ls runs/train/full_training/
 ## Project Structure
 
 ```
-ml-training-project
+CodeGenesis
 ├── .venv/                   # Virtual environment (created during setup)
 ├── configs/
 │   └── yolo_dataset.yaml    # YOLO dataset configuration
