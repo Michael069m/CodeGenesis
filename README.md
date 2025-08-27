@@ -9,7 +9,7 @@ This project is designed for training YOLOv8 object detection models on custom d
 - **Task**: Single-class object detection (entity_box)
 - **Framework**: Ultralytics YOLOv8
 
-## Quick Start for Your Friend's Laptop
+## Quick Start 
 
 ### 1. Clone the Repository
 
